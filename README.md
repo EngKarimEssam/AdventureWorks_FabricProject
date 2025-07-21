@@ -6,8 +6,13 @@ Steps:
   - Duplicate the file (Fact and Dims)
   - Check the data type and other transformations
   - Querying SQL using SQL analytics endpoint
+  - 
  
- 
+
+
+- power bi
 - Direct Lake
+- pipeline
+- 
 - 
 - 
