@@ -15,7 +15,11 @@ Steps:
 - Use Power BI Desktop and connect to onelake, then create your star schema and the visualizations you need.
   - Tip: You can create a Power BI dataset for a group of people to see specific Data.
  
+    
+ <img width="1920" height="1005" alt="2025-08-17_195553" src="https://github.com/user-attachments/assets/e772d7f7-29e4-44f5-99ef-d0676c1a6eae" />
+ 
 - In the lakehouse, we will get DimGeo using Data Pipeline
  
 
 [Watch the project on YouTube](https://www.youtube.com/watch?v=fD4rpCpkOIE)
+
