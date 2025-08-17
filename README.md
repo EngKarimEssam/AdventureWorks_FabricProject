@@ -18,8 +18,7 @@ Steps:
 - In the lakehouse, we will get DimGeo using Data Pipeline
  
 
+https://github.com/user-attachments/assets/c0db1852-fe71-453f-8169-2b16eae9b7cd
 
-
-
-https://github.com/user-attachments/assets/fe02606e-c309-4b39-9fa5-3a3234b4a888
+https://youtu.be/fD4rpCpkOIE
 
