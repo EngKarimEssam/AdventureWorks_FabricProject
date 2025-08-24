@@ -21,5 +21,5 @@ Steps:
 - In the lakehouse, we will get DimGeo using Data Pipeline
  
 
-[Watch the project on YouTube](https://www.youtube.com/watch?v=fD4rpCpkOIE)
+[Watch the project on YouTube](https://youtu.be/MiMQZLwLC6g?si=kPS5TnSHSVVTCSge)
 
